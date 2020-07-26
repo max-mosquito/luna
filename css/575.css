@@ -1,0 +1,23 @@
+@media (max-width: 575px){
+	.about_wrap {
+		padding-top: 20px;
+		padding-bottom: 10px;
+	}
+	.tab {
+		flex: 0 1 50%;
+	}
+	.footer_copyright {
+		-webkit-flex-wrap: wrap;
+		-moz-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		-o-flex-wrap: wrap;
+		flex-wrap: wrap;
+	}
+	.left,
+	.right {
+		flex: 1 1 100%;
+	}
+	.left {
+		padding-bottom: 10px;
+	}
+}
