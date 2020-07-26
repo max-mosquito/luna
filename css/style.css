@@ -19,7 +19,7 @@ body {
 
 .fullscreen {
   min-height: 100vh;
-  background: url("../../img/bg_header.webp") center center/cover no-repeat;
+  background: url("../img/bg_header.webp") center center/cover no-repeat;
 }
 
 .fullscreen_body {
